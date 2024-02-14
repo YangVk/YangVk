@@ -8,6 +8,15 @@
 
 - 📫 How to reach me **Yang.Kurebayashi@Gmail.com**
 
+- ## Projects
+You can check some of my projects:
+
+- Pokezoo: A game developed with UNISAGRADO University for Bauru's Zoo. With pokemon as inspiration, this game was designed and developed with the goal of educating the players about brazilian animals.
+
+- Fatal Blow: Another game developed with UNISAGRADO University. This game is a 3D fighting game with complete features like: fight, combos, multiple stages and characters. 
+
+- Slime Attack: A game developed for GameJam None Class. This is an endless game where you fight an inifinte wave of slimes.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yang kurebayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yang kurebayashi" height="30" width="40" /></a>
