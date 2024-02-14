@@ -22,9 +22,9 @@
 You can check some of my projects:
 
 <ul> 
- <li><a href="https://github.com/CoveiroDev/PoKe-Zoo">Pokezoo:</a> A game developed with UNISAGRADO University for Bauru's Zoo. With pokemon as inspiration, this game was designed and developed with the goal of educating the players about brazilian animals.</li>
- <li><a href="https://github.com/CoveiroDev/Fatal-Blow">Fatal Blow:</a> Another game developed with UNISAGRADO University. This game is a 3D fighting game with complete features like: fight, combos, multiple stages and characters.</li>
- <li><a href="https://corveiro.itch.io/slime-attack">Slime Attack:</a> A game developed for GameJam None Class. This is an endless game where you fight an inifinte wave of slimes.</li>
+ <li><a href="https://github.com/CoveiroDev/PoKe-Zoo">Pokezoo:</a> Developed in collaboration with UNISAGRADO University for Bauru's Zoo, Pokezoo is an educational game featuring Brazilian animals, inspired by Pokémon.</li>
+ <li><a href="https://github.com/CoveiroDev/Fatal-Blow">Fatal Blow:</a> Another project developed with UNISAGRADO University, Fatal Blow is a 3D fighting game featuring various gameplay elements such as fighting, combos, multiple stages, and characters.</li>
+ <li><a href="https://corveiro.itch.io/slime-attack">Slime Attack:</a> Created for the GameJam None Class, Slime Attack is an endless game where players battle against an infinite wave of slimes.</li>
 </ul>
 
 
